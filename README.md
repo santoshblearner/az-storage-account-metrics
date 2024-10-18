@@ -23,9 +23,9 @@ The workbook is designed with multiple sections:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/azure-storage-account-workbook.git
+    git clone https://github.com/santoshblearner/az-storage-account-metrics.git
     ```
-2. Deploy this ARM template by using either the Azure portal, the command-line interface, or PowerShell.
+2. Deploy this ARM template by using either the [Azure portal](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-portal#deploy-resources-from-custom-template), [the command-line interface](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli), or [PowerShell](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-powershell).
 3. Customize the workbook as needed by selecting the desired subscriptions, resource groups, and storage accounts.
 
 ## Requirements
